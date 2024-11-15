@@ -1,0 +1,13 @@
+.pokemon-details-name{
+    font-size: x-large;
+    color: black;
+    letter-spacing: 1rem;
+    margin-top: 1rem;
+
+
+
+}
+
+.pokemon-details-name > span{
+    letter-spacing: 1rem;
+}
